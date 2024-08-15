@@ -1,0 +1,3 @@
+Here is the source of the data from Kaggle, uploaded by Shivam Bansal:
+
+https://www.kaggle.com/datasets/shivamb/vehicle-claim-fraud-detection
